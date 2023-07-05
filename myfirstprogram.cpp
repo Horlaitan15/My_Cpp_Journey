@@ -4,6 +4,6 @@
 
 int main()
 {
-    std::cout << "Welcome to Cpp!\n";
+    std::cout << "Hello World! Welcome to Cpp!\n";
     return 0;
 }
